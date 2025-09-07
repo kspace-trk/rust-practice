@@ -1,0 +1,1 @@
+/Users/keigo/ghq/github.com/kspace-trk/rust-practice/variables-and-mutability/target/debug/variables-and-mutability: /Users/keigo/ghq/github.com/kspace-trk/rust-practice/variables-and-mutability/src/main.rs
