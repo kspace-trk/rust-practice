@@ -1,7 +1,7 @@
 fn main() {
     // スタックに参照が保存される
     // name変数の値が変わらないなら、String型を使う
-    let name = "keigo"
+    let name = "keigo";
     println!("name is: {}", name);
 
     // ヒープに参照が保存される
